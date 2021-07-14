@@ -51,16 +51,16 @@ function Footer() {
 							target='_blank'
 							rel='noopener noreferrer'
 						>
-							Maria 3541557776
+							Maria 3541 557776
 						</a>
 						<a rel='noreferrer' href='tel:3541563957'>
-							Calvin 3541563957
+							Calvin 3541 563957
 						</a>
 
 						{/* <Link to='/'>Destinations</Link>
 						<Link to='/'>Sponsorships</Link> */}
 					</div>
-					{/* <div className='footer-link-items'>
+					{/* <div className='footer-link-items'>add <div className=""></div>
 						<h2>Videos</h2>
 						<Link to='/'>Submit Video</Link>
 						<Link to='/'>Ambassadors</Link>
