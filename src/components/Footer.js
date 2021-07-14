@@ -51,10 +51,10 @@ function Footer() {
 							target='_blank'
 							rel='noopener noreferrer'
 						>
-							Contacto N1
+							Maria +5493541557776
 						</a>
 						<a rel='noreferrer' href='tel:3541563957'>
-							Contacto N2
+							Calvin 3541563957
 						</a>
 
 						{/* <Link to='/'>Destinations</Link>

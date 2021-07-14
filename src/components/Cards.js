@@ -46,7 +46,7 @@ function Cards() {
 								/>
 								<CardItem
 									src='images/IMG_2604.jpg'
-									text='Pisos de cerámica y piedra. Palmeras y Pergolado de Madera Blanca estilo Griego recién terminado. Estacionamiento apto para más de 2 vehículos.'
+									text='Pisos de cerámica y piedra. Palmeras y Pergolado de Madera Blanca estilo Moderno recién terminado. Estacionamiento apto para más de 2 vehículos.'
 									label='Parrilla y Estacionamiento Privado Bajo Techo'
 									// path='/products'
 								/>
@@ -95,7 +95,7 @@ function Cards() {
 							<ul className='cards__items'>
 								<CardItem
 									src='images/IMG_2578.jpg'
-									text='Cuenta con un Televisor de 42 pulgadas y un gran baño con bañadera y bidé. '
+									text='Cuenta con un Televisor de 42 pulgadas y un gran baño con bañadera y bidét. '
 									label='Confort y Calidad'
 									// path='/services'
 								/>
