@@ -51,7 +51,7 @@ function Footer() {
 							target='_blank'
 							rel='noopener noreferrer'
 						>
-							Maria +5493541557776
+							Maria 3541557776
 						</a>
 						<a rel='noreferrer' href='tel:3541563957'>
 							Calvin 3541563957
