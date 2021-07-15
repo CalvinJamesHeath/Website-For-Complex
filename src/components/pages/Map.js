@@ -61,10 +61,13 @@ function Map() {
 			)}
 
 			<iframe
-				src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2308.013919353384!2d-64.48352442058686!3d-31.400774322232454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sterrazas%20del%20puerto!5e1!3m2!1ses-419!2sar!4v1626128620879!5m2!1ses-419!2sar'
+				src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2308.0227216275393!2d-64.48134001128767!3d-31.400416348018172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sterrazas%20del%20puerto!5e1!3m2!1sen!2sar!4v1626353823609!5m2!1sen!2sar'
 				className='map'
 				style={{ border: 'none' }}
 				title='map'
+				allowFullScreen
+				frameBorder='0'
+				loading='lazy'
 			></iframe>
 		</div>
 	);
