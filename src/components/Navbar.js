@@ -71,7 +71,7 @@ function Navbar() {
 								<div className='nav-links'>Propiedades</div>
 							</NavLink>
 						</li> */}
-						<a href='#footer'>
+						<a href='https://terrazasdelpuerto.netlify.app/#footer'>
 							<li className='nav-item'>
 								<div className='nav-links-mobile' onClick={closeMobileMenu}>
 									CONTACTO
@@ -84,7 +84,7 @@ function Navbar() {
 							<Button
 								buttonStyle='btn--outline'
 								buttonSize='btn--large'
-								location='#footer'
+								location='https://terrazasdelpuerto.netlify.app/#comenzar'
 							>
 								CONTACTO
 							</Button>

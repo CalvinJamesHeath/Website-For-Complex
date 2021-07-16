@@ -14,7 +14,7 @@ function Home() {
 				<p>¡Una Ciudad Para disfrutar todo el año! </p>
 				<div className='hero-btns'>
 					<Button
-						location='#comenzar'
+						location='https://terrazasdelpuerto.netlify.app/#comenzar'
 						className='btns'
 						buttonStyle='btn--outline'
 						buttonSize='btn--large'
