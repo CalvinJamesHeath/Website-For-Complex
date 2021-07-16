@@ -1,11 +1,8 @@
-### `yarn test`
-
-## Learn More
-
-# [View Page](https://terrazasdelpuertovcp.netlify.app/)
+### `Calvin James Heath`
+# [View Page ONLINE](https://terrazasdelpuerto.netlify.app/)
 ## Realstate 
 
-![](https://github.com/CalvinJamesHeath/Triplex/blob/master/img%20presentation.png)
+![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.21.42%20PM.png)
 ![](https://github.com/CalvinJamesHeath/Triplex/blob/master/screen.jpg)
 
 ### Making a Progressive Web App
