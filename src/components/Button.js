@@ -23,19 +23,23 @@ export const Button = ({
 	// 		behavior: 'smooth',
 	// 	});
 	// }
+
 	return (
-		<a
-			href={location}
-			className='btn-mobile'
-			style={{ scrollBehavior: 'smooth' }}
-		>
-			<button
-				className={`btn ${checkButtonStyle} ${checkButtonSize}`}
-				onClick={onClick}
-				type={type}
+		<div>
+			<a
+				href='https://terrazasdelpuerto.netlify.app/#footer'
+				className='btn-mobile'
+				style={{ scrollBehavior: 'smooth' }}
+				// name={location}
 			>
-				{children}
-			</button>
-		</a>
+				<button
+					className={`btn ${checkButtonStyle} ${checkButtonSize}`}
+					onClick={onClick}
+					type={type}
+				>
+					{children}
+				</button>
+			</a>
+		</div>
 	);
 };

@@ -18,6 +18,7 @@ function Home() {
 						className='btns'
 						buttonStyle='btn--outline'
 						buttonSize='btn--large'
+						name='footer'
 					>
 						Comenzar
 					</Button>
