@@ -27,10 +27,10 @@ export const Button = ({
 	return (
 		<div>
 			<a
-				href='https://terrazasdelpuerto.netlify.app/#footer'
+				href={location}
 				className='btn-mobile'
 				style={{ scrollBehavior: 'smooth' }}
-				// name={location}
+				name={location}
 			>
 				<button
 					className={`btn ${checkButtonStyle} ${checkButtonSize}`}
