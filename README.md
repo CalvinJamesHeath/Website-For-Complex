@@ -1,5 +1,4 @@
 ### `Calvin James Heath`
-<<<<<<< HEAD
 # [View Page ONLINE](https://terrazasdelpuerto.netlify.app/)
 ## Realstate 
 
