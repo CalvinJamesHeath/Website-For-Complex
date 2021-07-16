@@ -3,15 +3,12 @@
 # [View Page ONLINE](https://terrazasdelpuerto.netlify.app/)
 ## Realstate 
 
-![](https://# [View Page](https://terrazasdelpuertovcp.netlify.app/)
-## Realstate 
-
-![](https://github.com/CalvinJamesHeath/Triplex/blob/master/img%20presentation.png)
+![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.21.42%20PM.png?raw=true)
 ![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.22.30%20PM.png)
 )
-![](**https://github.com/CalvinJamesHeath/Triplex/blob/master/screen.jpg**)
-![](**https://github.com/CalvinJamesHeath/Triplex/blob/master/img%20presentation.png**)
-![](**https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.22.30%20PM.png**)
+![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.22.40%20PM.png?raw=true)
+![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.22.52%20PM.png?raw=true)
+![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.23.15%20PM.png?raw=true)
 )
 
 ### Code Splitting
