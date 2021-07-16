@@ -6,7 +6,7 @@
 ![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.21.42%20PM.png?raw=true)
 ### Beautiful Layout
 ![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.22.30%20PM.png)
-)
+
 ### Modern Stylish Footer
 ![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.22.40%20PM.png?raw=true)
 ### Google Maps Location
