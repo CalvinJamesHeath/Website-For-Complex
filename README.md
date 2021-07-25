@@ -1,14 +1,10 @@
 ### `Calvin James Heath`
 # [View Page ONLINE](https://terrazasdelpuerto.netlify.app/)
-## Realstate 
+## Realstate Mobile Responsive
 
 ![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.21.42%20PM.png)
 ![](https://github.com/CalvinJamesHeath/Triplex/blob/master/screen.jpg)
 =======
-
-# [View Page ONLINE](https://terrazasdelpuerto.netlify.app/)
-## Realstate Mobile Responsive
-
 ![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.21.42%20PM.png?raw=true)
 ### Beautiful Layout
 ![](https://github.com/CalvinJamesHeath/Website-For-Complex/blob/main/src/components/images/Screen%20Shot%202021-07-14%20at%207.22.30%20PM.png)
