@@ -18,6 +18,7 @@ function Cards() {
 					medida.
 				</h1>
 
+				<h1>Barrio Santa Rita, Gobernador Roca 380.</h1>
 				<div className='cards__container'>
 					<div className='cards__wrapper'>
 						<div data-aos='fade-up'>
@@ -94,13 +95,13 @@ function Cards() {
 						<div data-aos='zoom-in'>
 							<ul className='cards__items'>
 								<CardItem
-									src='images/IMG_2578.jpg'
+									src='images/IMG_2852.jpg'
 									text='Cuenta con un Televisor de 42 pulgadas y un gran baño con bañadera y bidét. '
 									label='Confort y Calidad'
 									// path='/services'
 								/>
 								<CardItem
-									src='images/IMG_2579.jpg'
+									src='images/IMG_2857.jpg'
 									text='El Triplex contiene 3 Baños finos de cerámica con paredes marinas.'
 									label='Master Bathroom'
 									// path='/services'
@@ -122,7 +123,7 @@ function Cards() {
 									// path='/services'
 								/>
 								<CardItem
-									src='images/IMG_2591.jpg'
+									src='images/IMG_2859.jpg'
 									text='Habitación con par de camas simples y climatización central.'
 									label='Tercera Habitación'
 									// path='/services'
@@ -144,7 +145,7 @@ function Cards() {
 									// path='/services'
 								/>
 								<CardItem
-									src='images/dek.jpg'
+									src='images/IMG_2851.jpg'
 									text='Espacios confortables y decoración atractiva.'
 									label='Simpleza y armonía'
 									// path='/products'
