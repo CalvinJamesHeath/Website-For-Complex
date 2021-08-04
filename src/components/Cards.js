@@ -13,11 +13,10 @@ function Cards() {
 		<>
 			<span className='anchor' id='comenzar'></span>
 			<div className='cards'>
-				<h1>
+				<h1 id='exlusive__h1'>
 					Un lugar exclusivo donde diseño y buen gusto se encuentran en su justa
 					medida.
 				</h1>
-
 				<h1>Barrio Santa Rita, Gobernador Roca 380.</h1>
 				<div className='cards__container'>
 					<div className='cards__wrapper'>
