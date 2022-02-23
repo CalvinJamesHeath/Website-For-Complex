@@ -1,6 +1,11 @@
 import './App.css';
 import Navbar from './components/Navbar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import {
+	BrowserRouter as Router,
+	Switch,
+	Route,
+	NavLink,
+} from 'react-router-dom';
 import HomePage from './components/pages/HomePage';
 import Map from './components/pages/Map';
 import Footer from './components/Footer';
@@ -26,6 +31,20 @@ function App() {
 				<Switch>
 					<Route path='/TermsOfService' exact>
 						<Terms />
+					</Route>
+				</Switch>
+				<Switch>
+					<Route path='*' exact>
+						<div style={{ textAlign: 'center', margin: '4rem 0 5rem 0' }}>
+							<h1 style={{ color: 'red' }}>Error 404.</h1>
+							<br />
+							<h1>Paguina solicitada no existe.</h1>
+							<br />
+
+							<NavLink to='/'>
+								<h1>Presiona aqui para volver al inicio!</h1>
+							</NavLink>
+						</div>
 					</Route>
 				</Switch>
 				<Footer />

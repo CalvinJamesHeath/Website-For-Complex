@@ -51,10 +51,7 @@ function Footer() {
 							target='_blank'
 							rel='noopener noreferrer'
 						>
-							Maria 3541 557776
-						</a>
-						<a rel='noreferrer' href='tel:3541563957'>
-							Calvin 3541 563957
+							Maria
 						</a>
 
 						{/* <Link to='/'>Destinations</Link>
