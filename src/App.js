@@ -19,21 +19,14 @@ function App() {
 				<Navbar />
 				<Switch>
 					<Route path='/' exact component={HomePage} />
-				</Switch>
-				<Switch>
+
 					<Route path='/Mapa' exact>
 						<Map />
 					</Route>
-				</Switch>
-				<Switch>
 					<Route path='/Propiedades' exact></Route>
-				</Switch>
-				<Switch>
 					<Route path='/TermsOfService' exact>
 						<Terms />
 					</Route>
-				</Switch>
-				<Switch>
 					<Route path='*' exact>
 						<div style={{ textAlign: 'center', margin: '4rem 0 5rem 0' }}>
 							<h1 style={{ color: 'red' }}>Error 404.</h1>
