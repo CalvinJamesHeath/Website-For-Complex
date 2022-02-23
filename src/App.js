@@ -27,7 +27,7 @@ function App() {
 					<Route path='/TermsOfService' exact>
 						<Terms />
 					</Route>
-					<Route path='*' exact>
+					{/* <Route path='*' exact>
 						<div style={{ textAlign: 'center', margin: '4rem 0 5rem 0' }}>
 							<h1 style={{ color: 'red' }}>Error 404.</h1>
 							<br />
@@ -38,7 +38,7 @@ function App() {
 								<h1>Presiona aqui para volver al inicio!</h1>
 							</NavLink>
 						</div>
-					</Route>
+					</Route> */}
 				</Switch>
 				<Footer />
 				<ScrollToTop />
